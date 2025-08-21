@@ -1,0 +1,3 @@
+Static Arrays
+
+Sebenarnya static array dapat ditemukan pada bahasa pemograman seperti Java, C++, dan C#, jadi static array itu sendiri yaitu dimana array itu harus di di letakkan size dan tipe nya saat di inisiasi, kenapa disebut static array? ini disebabkan statuc array itu tidak bisa di ubah dari size, lokasi memorynya dan tidak dapat ditambahkan lagi apabila sudah memenuhi dari static array yang sudah di set sebelumnya, Nah namun perlu kit a ketahai untuk bahasa pemogrmaan yang sudah dynamic typed languages kaya Python dan JavaScript itu tidak memilii Static array (namun kita bisa buat itu sendiri}
